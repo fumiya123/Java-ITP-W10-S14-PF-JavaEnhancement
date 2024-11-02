@@ -4,9 +4,9 @@ Kelas Introduction to Programming / Week 10 / Session 14
 
 ### Penjelasan:
 1. **List Declaration**:
-   ```java
+   ``java
    List<String> list = new ArrayList<>() { ... };
-   ```
+   ``
    Di sini, kita membuat objek `ArrayList` yang merupakan **anonymous class**. Anonymous class adalah kelas tanpa nama yang dapat kita buat langsung saat menginisialisasi objek. Di dalam kurung kurawal `{ ... }`, kita menambahkan elemen `"Hello"` dan `"World"` ke dalam list.
 
 2. **Diamond Operator (`<>`)**:
